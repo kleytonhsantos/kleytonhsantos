@@ -1,6 +1,6 @@
 # Hi, my name is Kleyton
 
-- 🏢 &nbsp; Working at **Get Ninjas S/A**
+- 🏢 &nbsp; Working at **Getninjas S/A**
 - 💻 &nbsp; DevOps/SRE
 
 
