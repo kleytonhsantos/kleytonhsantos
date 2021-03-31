@@ -1,6 +1,6 @@
 # Hi, my name is Kleyton
 
-- 🏢 &nbsp; Working at **Youse Seguradora**
+- 🏢 &nbsp; Working at **Get Ninjas S/A**
 - 💻 &nbsp; DevOps/SRE
 
 
