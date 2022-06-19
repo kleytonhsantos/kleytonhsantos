@@ -8,3 +8,5 @@
 - 👯 I’m looking to collaborate on **Terraform**
 
 - 📫 How to reach me **kleytonhsantos@gmail.com**
+
+![Snake animation](https://github.com/kleytonhsantos/kleytonhsantos/blob/output/github-contribution-grid-snake.svg)
